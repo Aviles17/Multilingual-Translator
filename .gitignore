@@ -1,0 +1,4 @@
+#Ignore all files related to execution
+*.txt
+#Ignore Cache
+__pycache__/
